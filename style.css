@@ -1,0 +1,18 @@
+.bodyBg{
+    background-color: rgb(209, 205, 200);
+}
+
+#submit{
+    color: white;
+    background-color: gray;
+}
+#submit:hover{
+    background-color: rgb(103, 102, 109);
+}
+#qs{
+    background-color: gray;
+}
+
+#qs:hover{
+    background-color: rgb(37, 176, 223);
+}
